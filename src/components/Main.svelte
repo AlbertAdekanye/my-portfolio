@@ -64,28 +64,28 @@
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </button>
         </div>
-        <!-- <div class="relative shadow-2xl grid place-items-center">
+        <div class="relative shadow-2xl grid place-items-center">
             <img
                 
-                url="('../images/profile.jpg')"
+                src={"../assets/images/profile.jpg"}
                 alt=""
-                class="object-cover z-[2] max-h-[70vh]"
+                class="object-cover z-[2] max-h-[70vh] rounded-full"
             />
-        </div> -->
+        </div>
         <div  class="flex p-0.5 relative max-w-[700px] w-full mx-auto">
-            <div
+            <!-- <div
                 class="absolute inset-0 overflow-hidden rounded-md flex items-center justify-center"
             >
                 <div
                     class="bg-gradient-to-r absolute inset-[-20px]  from-cyan-950 to-cyan-50 specialSpin"
                 />
-            </div>
+            </div> -->
 
-            <img
-                src={"src/images/profile.jpg"}
+            <!-- <img
+                src={"../assets/images/profile.jpg"}
                 alt=""
                 class="w-full h-full object-cover z-[2] rounded-full"
-            />
+            /> -->
         </div>
     </section>
     <section class="py-20 lg:py-32 flex flex-col gap-24" id="projects">
