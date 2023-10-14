@@ -14,10 +14,10 @@
             <a href="https://github.com/AlbertAdekanye">
                 <i class="fa-brands fa-github" />
             </a>
-            <a href="https://twitter.com/AlbertAdekanye">
+            <a href="https://twitter.com/adekanye_albert">
                 <i class="fa-brands fa-twitter" />
             </a>
-            <a href="https://www.instagram.com/albertadekanye/">
+            <a href="https://www.instagram.com/kanyecode/">
                 <i class="fa-brands fa-instagram" />
             </a>
         </div>
